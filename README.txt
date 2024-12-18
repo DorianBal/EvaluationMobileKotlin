@@ -1,7 +1,5 @@
-Ceci est une application Android, faite avec le langage de programmation Kotlin,
+Application Android, faite avec le langage de programmation Kotlin,
 construite avec Jetpack Compose, qui affiche une liste de Pokémon récupérés depuis l'API PokéAPI.
-
---------------------------------------------------------------------------------
 
 ______________________API et Fonctionnalités______________________
 
