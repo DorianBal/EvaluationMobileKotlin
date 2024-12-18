@@ -1,0 +1,14 @@
+<resources>
+
+    <color name="cod_gray">#1E1E1E</color>
+    <color name="bright_red">#BA0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="primary"/>
+    <color name="onPrimary"/>
+    <color name="background"/>
+    <color name="onBackground"/>
+    <color name="error">@color/bright_red</color>
+
+</resources>

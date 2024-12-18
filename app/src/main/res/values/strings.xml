@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Evaluation API</string>
+
+    <string name="pokemon_list"></string>
+    <string name="pokemon_detail"></string>
+    <string name="types"></string>
+    <string name="hp"></string>
+    <string name="attack"></string>
+    <string name="defense"></string>
+    <string name="weight"></string>
+    <string name="height"></string>
+</resources>

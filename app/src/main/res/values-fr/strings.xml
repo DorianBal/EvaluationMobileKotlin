@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Evaluation API</string>
+
+    <string name="pokemon_list">Liste des Pokémon</string>
+    <string name="pokemon_detail">Détails du Pokémon</string>
+    <string name="types">Type(s)</string>
+    <string name="hp">Points de Vie (HP)</string>
+    <string name="attack">Attaque</string>
+    <string name="defense">Défense</string>
+    <string name="weight">Poids</string>
+    <string name="height">Taille</string>
+</resources>

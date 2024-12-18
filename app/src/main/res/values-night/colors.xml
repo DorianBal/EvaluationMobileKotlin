@@ -1,0 +1,9 @@
+<resources>
+
+    <color name="primary">@color/bright_red</color>
+    <color name="onPrimary">@color/white</color>
+    <color name="background">@color/cod_gray</color>
+    <color name="onBackground">@color/white</color>
+    <color name="error">@color/bright_red</color>
+
+</resources>
