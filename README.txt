@@ -23,7 +23,6 @@ Choix Techniques :
 - Material Design 3: Utilisé pour une conception d'interface utilisateur moderne et cohérente.
 - StateFlow et collectAsState: Utilisés pour observer les changements dans l'état de l'interface utilisateur.
 
---------------------------------------------------------------------------------
 
 ______________________Architecture______________________
 
